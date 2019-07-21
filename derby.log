@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jul 20 23:14:25 CST 2019:
+ Iniciando instancia a816c00e-016c-12f3-d2b4-000002edb3f0 de Derby, versión The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): 
+en el directorio de base de datos C:\Users\elamc\OneDrive\Documentos\NetBeansProjects\DERBY_2019_PA1_P2_Elam_Castillo\Registros con el cargador de clases sun.misc.Launcher$AppClassLoader@2503dbd3
+Cargado desde file:/C:/Users/elamc/Downloads/db-derby-10.12.1.1-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\elamc\OneDrive\Documentos\NetBeansProjects\DERBY_2019_PA1_P2_Elam_Castillo
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
